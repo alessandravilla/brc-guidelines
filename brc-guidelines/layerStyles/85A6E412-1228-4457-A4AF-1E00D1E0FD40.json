@@ -1,0 +1,30 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "85A6E412-1228-4457-A4AF-1E00D1E0FD40",
+  "name": "$palePurple",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8177614795918368,
+          "green": 0.512391583645769,
+          "red": 0.5429285732403757
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "85A6E412-1228-4457-A4AF-1E00D1E0FD40",
+    "startDecorationType": 0
+  }
+}

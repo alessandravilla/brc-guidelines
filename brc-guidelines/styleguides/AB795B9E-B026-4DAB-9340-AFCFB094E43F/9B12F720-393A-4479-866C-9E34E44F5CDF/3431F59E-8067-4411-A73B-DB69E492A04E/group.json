@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "3431F59E-8067-4411-A73B-DB69E492A04E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A38FA119-2108-4B92-ABBB-8A0A25E405B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7DC7313D-EF36-44E1-9B9A-E04D49A416FF",
+    "height": 15,
+    "width": 19,
+    "x": 799,
+    "y": 97
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "673FDDD8-6CA0-4BCF-AE07-F9EBAD49454B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FA71D73C-90BA-4152-B1F6-BFD0AB7C1D8B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A1566BA2-DB9B-489E-B93F-F585DFB57877"
+    }
+  ],
+  "name": "Map",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A8B09D2E-CBF5-4324-9AAA-C4954B8F898A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

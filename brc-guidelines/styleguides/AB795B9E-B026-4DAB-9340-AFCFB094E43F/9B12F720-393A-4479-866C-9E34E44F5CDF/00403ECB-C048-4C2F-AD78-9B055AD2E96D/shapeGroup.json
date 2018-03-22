@@ -1,0 +1,78 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "00403ECB-C048-4C2F-AD78-9B055AD2E96D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8228F8E6-CED4-43E1-A3A2-6266471D6F29",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1EB8A9AC-BBC1-42B0-8C3E-02906438D817",
+    "height": 15.99999999999999,
+    "width": 16,
+    "x": 385,
+    "y": 64
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "41B44901-7ED3-43E4-B014-57E7F7E3C650"
+    },
+    {
+      "class": "oval",
+      "id": "43A150D0-C4A6-4AF4-8020-91D293FFEC8E"
+    },
+    {
+      "class": "rectangle",
+      "id": "8E3588BE-0191-4F7F-97E6-FA37951332A8"
+    }
+  ],
+  "name": "play",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "14396D3E-D167-44C6-9377-467E97BF1026",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3215686274509804,
+          "green": 0.2509803921568627,
+          "red": 0.2078431372549019
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "8593A162-A01D-4052-B9F6-4D439146F7F9",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

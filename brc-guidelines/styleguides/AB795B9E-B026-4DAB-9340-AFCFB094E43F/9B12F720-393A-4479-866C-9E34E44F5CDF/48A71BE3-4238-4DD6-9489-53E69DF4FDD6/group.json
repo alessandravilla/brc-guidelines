@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "do_objectID": "48A71BE3-4238-4DD6-9489-53E69DF4FDD6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C1C2EECC-CEC9-464E-AEE8-467C58B8EB5F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "66103EB4-33A4-46E0-BA4E-93AE13AA6468",
+    "height": 16,
+    "width": 16,
+    "x": 256,
+    "y": 127.9787518690123
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EB80D577-8622-4A43-A091-5DDC0BBD6EBD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E865C76E-A56E-4050-98BD-E0A048E3A25E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F3AB6006-FB01-4D9F-8A29-719BBC389F6B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "82DC6F0D-6210-4590-9A82-D79DA55A352B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A5000E28-9A84-4BED-818D-52576225A28C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F73277EC-01CA-45FB-A75A-393658938CFF"
+    }
+  ],
+  "name": "Compass",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "66869D51-7B5C-4543-A072-471A4E1F688B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

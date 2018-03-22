@@ -1,0 +1,86 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "6A280399-918B-44F6-88A2-4DB1E9FFC2EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6D56BD45-4165-4522-B6A2-22CDDCB2DD9A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B112B9D-20C8-421D-8A24-258832764A9B",
+    "height": 16.03830472860537,
+    "width": 16.02062393534776,
+    "x": 517,
+    "y": 64
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "67ED9395-C02A-41E5-BF28-9F779AD730F6"
+    },
+    {
+      "class": "oval",
+      "id": "E0CB7B72-DEF6-4B51-A726-A8CC9343E00C"
+    },
+    {
+      "class": "shapePath",
+      "id": "FE7448EF-75CE-4011-89CB-91C31CAD0949"
+    },
+    {
+      "class": "rectangle",
+      "id": "90651949-5549-4848-9DCF-C3B58FDA6CAA"
+    },
+    {
+      "class": "rectangle",
+      "id": "DBCE9F7B-7CF9-4F8B-9C0E-BA2A30073B8F"
+    }
+  ],
+  "name": "magnifier +",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9F726F82-50ED-40D9-9717-E49446D17D1C",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3215686274509804,
+          "green": 0.2509803921568627,
+          "red": 0.2078431372549019
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "8593A162-A01D-4052-B9F6-4D439146F7F9",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

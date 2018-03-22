@@ -1,0 +1,82 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "E934F92A-5A4B-443A-827E-E5E59A26AC76",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9E1AE8ED-101F-4309-99FC-33CF3E1EE230",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6BE5FD86-843F-4D24-8FDE-7F7FAF1D5586",
+    "height": 16.0714111330322,
+    "width": 16,
+    "x": 321,
+    "y": 64
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6A62B4D7-1D36-4BB4-BA52-D9B5A02A2DAA"
+    },
+    {
+      "class": "rectangle",
+      "id": "332864BB-597D-47BC-A224-8043C2BB6AA3"
+    },
+    {
+      "class": "rectangle",
+      "id": "17A3F127-DC41-4FB0-A4F2-E553C21B4AFD"
+    },
+    {
+      "class": "rectangle",
+      "id": "0AC6669B-7131-4929-B179-3B109E7C65D4"
+    }
+  ],
+  "name": "book",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D8DC246C-2D6A-4D5C-BCEC-F6AC528AF974",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3215686274509804,
+          "green": 0.2509803921568627,
+          "red": 0.2078431372549019
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "8593A162-A01D-4052-B9F6-4D439146F7F9",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

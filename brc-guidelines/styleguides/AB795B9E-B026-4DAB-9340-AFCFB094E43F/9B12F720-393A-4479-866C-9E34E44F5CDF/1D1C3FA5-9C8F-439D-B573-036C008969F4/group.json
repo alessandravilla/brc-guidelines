@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "1D1C3FA5-9C8F-439D-B573-036C008969F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "23EAFC4D-66C8-4DE0-8C09-6596FFF6EB01",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E92C4F8F-5816-49AA-9F8A-6BA58690B1DE",
+    "height": 14,
+    "width": 16,
+    "x": 736,
+    "y": 97
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "46404F41-E3EB-499F-940B-FD7DB0CF8C98"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A6292983-C999-40D9-8FB6-BAF292DE38B7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C53AE57C-F730-48C6-9582-C7A10EE1695C"
+    }
+  ],
+  "name": "Cloud-3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3E6ED942-40A9-488E-8417-31C47FBEC2BE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "64DC0A5A-E971-4323-836F-B35149D09157",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "086CF413-9759-4724-8C91-3376167535C8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4B07A00F-E783-4FF2-A4A4-3702AA9E8CFB",
+    "height": 16,
+    "width": 11,
+    "x": 835,
+    "y": 128
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0CCFA1E4-8E27-476B-A01C-35870B6F0819"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "620FE16E-1C26-4191-9C16-B06995EA0D74"
+    }
+  ],
+  "name": "Mouse",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0A6CCA69-B16B-424F-B19A-7AA667FA50AD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

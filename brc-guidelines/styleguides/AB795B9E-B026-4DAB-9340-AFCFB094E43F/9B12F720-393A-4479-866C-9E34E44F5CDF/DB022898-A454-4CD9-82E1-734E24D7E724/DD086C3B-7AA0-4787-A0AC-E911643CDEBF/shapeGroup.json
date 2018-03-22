@@ -1,0 +1,78 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "DD086C3B-7AA0-4787-A0AC-E911643CDEBF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C561837-83D2-4021-AEB9-11F74FC624B3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8EC52777-F11F-4CE3-BBFE-F77178ACF1D0",
+    "height": 7.828332841669336,
+    "width": 7.417149929361457,
+    "x": 2.461529727078641,
+    "y": 10.7071539227245
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": true,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6BF2E5DE-9AB2-4552-BB35-327D9DB87561"
+    },
+    {
+      "class": "rectangle",
+      "id": "90EC785C-0B85-4C8B-B588-AE2CEA8030A1"
+    },
+    {
+      "class": "rectangle",
+      "id": "6EE5786C-2AA3-45FC-A5DD-B72B69FF9833"
+    }
+  ],
+  "name": "Rectangle 2 Copy 7",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 45,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1588AD85-F886-4001-8E8B-2D7EE9EE57D2",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3215686274509804,
+          "green": 0.2509803921568627,
+          "red": 0.2078431372549019
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "8593A162-A01D-4052-B9F6-4D439146F7F9",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

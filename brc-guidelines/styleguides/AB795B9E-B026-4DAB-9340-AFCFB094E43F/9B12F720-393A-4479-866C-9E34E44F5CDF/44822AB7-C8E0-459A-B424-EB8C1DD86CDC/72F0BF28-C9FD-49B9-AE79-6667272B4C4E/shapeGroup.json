@@ -1,0 +1,78 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "72F0BF28-C9FD-49B9-AE79-6667272B4C4E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "45F2D610-406A-4086-AEA7-E22BB72562D6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F32BC94D-28BC-4B87-924A-EA07C137B4F8",
+    "height": 6.56172180339532,
+    "width": 6.126293962800458,
+    "x": 0.873706037199554,
+    "y": 4.633305519338137
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": true,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3AA73D68-BCF6-473F-9935-088D55174922"
+    },
+    {
+      "class": "rectangle",
+      "id": "A3131D75-3E06-4B4C-9F1F-838A3C079B5F"
+    },
+    {
+      "class": "rectangle",
+      "id": "6717BCAE-A717-449D-A857-F4B9D79C0A2E"
+    }
+  ],
+  "name": "Rectangle 9 Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "16C98885-CB12-4B6F-9B1F-52FF7902A3FA",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3215686274509804,
+          "green": 0.2509803921568627,
+          "red": 0.2078431372549019
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "8593A162-A01D-4052-B9F6-4D439146F7F9",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

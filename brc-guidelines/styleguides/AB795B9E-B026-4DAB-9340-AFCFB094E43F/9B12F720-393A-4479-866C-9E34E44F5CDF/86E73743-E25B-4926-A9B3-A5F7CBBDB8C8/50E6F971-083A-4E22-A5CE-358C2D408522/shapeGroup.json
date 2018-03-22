@@ -1,0 +1,78 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "50E6F971-083A-4E22-A5CE-358C2D408522",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4ACEC3C4-FDBF-4994-95B0-2A6D4576E95E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A045D8B2-8D11-42DB-A864-B097CF33BAE0",
+    "height": 4.900000095367431,
+    "width": 5.355789985578215,
+    "x": 5.322105007210894,
+    "y": 5.100006103515625
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3CD8254F-E611-465B-B79D-34E99859C8E6"
+    },
+    {
+      "class": "rectangle",
+      "id": "687F4831-6D78-4A88-A08A-F0B4C1F60CA9"
+    },
+    {
+      "class": "rectangle",
+      "id": "ACC4BB29-5A41-4ECD-A4B6-42DC80D78DD9"
+    }
+  ],
+  "name": "Rectangle 79 Copy 5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 180,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "66DA637C-3B0F-469D-A15F-05CDFE44C440",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3215686274509804,
+          "green": 0.2509803921568627,
+          "red": 0.2078431372549019
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "8593A162-A01D-4052-B9F6-4D439146F7F9",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

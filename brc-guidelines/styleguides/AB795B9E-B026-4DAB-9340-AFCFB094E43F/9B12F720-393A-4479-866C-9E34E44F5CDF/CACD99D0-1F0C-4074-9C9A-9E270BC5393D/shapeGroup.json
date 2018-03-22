@@ -1,0 +1,95 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "CACD99D0-1F0C-4074-9C9A-9E270BC5393D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "55853337-FB1D-4425-87B7-024715B3843D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "65877681-339C-48D1-8E95-8A0702585FE2",
+    "height": 15.99999999999999,
+    "width": 16,
+    "x": 804,
+    "y": 64
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "596CD2B7-1C97-4827-8B77-1D4E884A6220"
+    },
+    {
+      "class": "rectangle",
+      "id": "AAB639CF-D5C8-4FCB-B031-363B96EE74A6"
+    },
+    {
+      "class": "rectangle",
+      "id": "5D65D047-82F5-4F2F-8775-BA5A0F381E2B"
+    },
+    {
+      "class": "rectangle",
+      "id": "E9287AFA-26CE-4902-803E-6872C1D2A2FB"
+    },
+    {
+      "class": "shapePath",
+      "id": "E742A64E-1DE6-4358-A46E-38DD446A19CE"
+    }
+  ],
+  "name": "to-do",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1D6C7211-8CA3-4875-B361-C395BB4B00E4",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3215686274509804,
+          "green": 0.2509803921568627,
+          "red": 0.2078431372549019
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "8593A162-A01D-4052-B9F6-4D439146F7F9",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

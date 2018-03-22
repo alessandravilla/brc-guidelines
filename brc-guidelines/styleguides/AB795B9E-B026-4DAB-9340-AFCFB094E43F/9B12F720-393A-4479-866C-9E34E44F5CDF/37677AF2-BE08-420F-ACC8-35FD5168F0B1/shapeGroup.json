@@ -1,0 +1,87 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "37677AF2-BE08-420F-ACC8-35FD5168F0B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "09E9B942-EE9A-43F2-BFEA-E0452DEAF617",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "86D9A9BB-5B11-4CDF-BE36-7BDB73153B42",
+    "height": 16.03830472860537,
+    "width": 16.02062393534776,
+    "x": 484,
+    "y": 64
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "DE4CC20D-86D7-4BE1-8822-CAEB4CF8201A"
+    },
+    {
+      "class": "oval",
+      "id": "09E5E6BB-7FA2-4C83-96F1-18FE9BE2B91B"
+    },
+    {
+      "class": "shapePath",
+      "id": "7D4609C2-04EF-46D0-B408-F03FF6C5570E"
+    }
+  ],
+  "name": "magnifier",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B9485EA1-68DF-4D5E-B2B2-9C62B9CF438C",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3215686274509804,
+          "green": 0.2509803921568627,
+          "red": 0.2078431372549019
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "8593A162-A01D-4052-B9F6-4D439146F7F9",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

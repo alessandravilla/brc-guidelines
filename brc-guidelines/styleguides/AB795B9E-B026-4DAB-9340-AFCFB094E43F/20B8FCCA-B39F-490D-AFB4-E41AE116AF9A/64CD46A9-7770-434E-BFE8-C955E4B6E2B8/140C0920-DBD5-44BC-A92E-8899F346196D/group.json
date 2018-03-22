@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "140C0920-DBD5-44BC-A92E-8899F346196D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7EE70ED3-0425-49E6-A20F-44B5D3B40F88",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "14803413-0B42-4BFC-ADD0-B5D2B86980B2",
+    "height": 189,
+    "width": 137,
+    "x": 864,
+    "y": 619
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "07779368-9B06-4C20-828C-10D052FCFFC5"
+    },
+    {
+      "class": "text",
+      "id": "00CF5BCB-7771-4B5F-B244-CD51B5487205"
+    },
+    {
+      "class": "text",
+      "id": "549FF52E-12BE-4014-A448-96E5C47F383A"
+    }
+  ],
+  "name": "Colour Palette",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3C71886B-63D5-4C86-9977-093764DE8349",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "86E73743-E25B-4926-A9B3-A5F7CBBDB8C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "54C55BC1-552D-4382-901F-C81D581659FE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9CD39AC6-E182-44EC-8680-BC315B008BE9",
+    "height": 13,
+    "width": 16,
+    "x": 704,
+    "y": 97
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "704CB8D9-EB2E-4F83-9614-F2D955DE37F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "50E6F971-083A-4E22-A5CE-358C2D408522"
+    }
+  ],
+  "name": "Cloud-2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CCB880BD-B6B5-4A73-AD19-55F81638938E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

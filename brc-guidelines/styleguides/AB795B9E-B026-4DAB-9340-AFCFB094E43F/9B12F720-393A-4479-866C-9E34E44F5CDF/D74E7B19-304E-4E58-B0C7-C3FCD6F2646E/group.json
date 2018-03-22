@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "D74E7B19-304E-4E58-B0C7-C3FCD6F2646E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "000519AA-7AB3-4A71-A22E-A6B0B0F234CF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "33C86BD7-ABE1-4BDB-96A7-A9183D7D5B81",
+    "height": 16,
+    "width": 13,
+    "x": 770,
+    "y": 128
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4732FC63-D777-43F0-881C-1F6D5437D9EC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4F3F321F-069D-469C-ABB3-2DC78AD0C43F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E0D9138B-0E66-4634-85F5-1F59D5E78E2B"
+    }
+  ],
+  "name": "Unlock",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "41AAE5DA-D192-4237-AD02-439E28573790",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

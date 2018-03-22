@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "44822AB7-C8E0-459A-B424-EB8C1DD86CDC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1922F613-B4CB-4768-B419-5C0AF2219821",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E1DFFA3B-5E14-49B2-8C7C-6088EE1CA1C0",
+    "height": 12,
+    "width": 17,
+    "x": 31,
+    "y": 129.9787518690123
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4931D71B-3EAE-47A8-B090-A56C9880EBE8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "04357D05-2454-4C09-B650-B7EAD67C83D7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "34DCEBEC-FCE8-492B-9926-0DF8A3771089"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "72F0BF28-C9FD-49B9-AE79-6667272B4C4E"
+    }
+  ],
+  "name": "Reverse",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "12AB8D40-0906-4190-A641-17C45684CFD5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
